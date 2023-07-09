@@ -1,0 +1,47 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    text-align: justify;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 32px;
+    color: darkred ;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    color: olive;
+}
+
+h3 {
+    font-size: 24px;
+    color: darkblue;
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+p {
+    width: auto;
+}
+
+ul {
+    font-weight: 500;
+    font-size: small;
+}
+
+ol {
+    font-weight: 500;
+}
+
+a {
+    font-size: 16px;
+    text-decoration: wavy;
+    color: cornflowerblue;
+    font-weight: 800;
+}
